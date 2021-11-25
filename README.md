@@ -9,6 +9,7 @@
  　　-開志専門職大学情報学部2年
 
 -趣味
+
     -読書、ゲーム 
 
 You can use the [editor on GitHub](https://github.com/okamimahiro20120043/-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
