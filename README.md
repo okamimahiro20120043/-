@@ -1,8 +1,8 @@
 ## 自己紹介
-### 名前
--大上真弘
-### 所属
--開志専門職大学情報学部2年
+-名前
+ -大上真弘
+-所属
+ -開志専門職大学情報学部2年
 
 You can use the [editor on GitHub](https://github.com/okamimahiro20120043/-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
