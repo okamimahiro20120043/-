@@ -19,6 +19,8 @@
 
 
 ### 好きなこと
+
+
 -ゲーム
 
 
@@ -30,9 +32,14 @@
 
 -小説
 
+
 ### 出身地について
 
+
+
 -[新潟県佐渡市](https://www.google.com/maps?q=%E6%96%B0%E6%BD%9F%E7%9C%8C%E4%BD%90%E6%B8%A1%E5%B8%82&rlz=1C5CHFA_enJP902JP909&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi-lPyitr_0AhX2k1YBHTohAVkQ_AUoAXoECAEQAw)
+
+
 
     ・田舎です。
     
@@ -47,6 +54,7 @@
     
     
     ・電車は通っていません。
+    
     
     
 -佐渡市のおすすめスポット
