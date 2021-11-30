@@ -29,3 +29,4 @@
      
      -たらい船
      　[写真](http://niigata-kankou.or.jp/image/rendering/attraction_image/10475/keep/1200?v=fdd9fd70f36c1ef97b20e51927cff5dec8ff1770)
+       [場所](https://www.google.com/maps/place/%E7%9F%A2%E5%B3%B6%E4%BD%93%E9%A8%93%E4%BA%A4%E6%B5%81%E9%A4%A8/@37.8088267,138.2646993,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4875ce95dcd39:0xc8e5251c7d01b95c!8m2!3d37.808857!4d138.266913?hl=ja)
