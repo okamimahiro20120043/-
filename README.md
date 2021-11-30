@@ -25,7 +25,5 @@
 
 
 
-[Link](url) and ![Image](https://www.city.sado.niigata.jp/uploaded/image/7446.jpg)
-```
-
+[Image](https://niigata-kankou.or.jp/image/rendering/blog_paragraph_image/7798/keep/1200?v=f3c75d965174ff259ab62822f8270f2aaaaf72d4)
 
