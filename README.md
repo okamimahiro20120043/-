@@ -25,7 +25,7 @@
 
 
 
-[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.city.sado.niigata.jp%2Fsite%2Fmine%2F4527.html&psig=AOvVaw3bPexTNSCTjnHH1onVXji4&ust=1638337530160000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjYzIixv_QCFQAAAAAdAAAAABAP)
+[Link](url) and ![Image](https://www.city.sado.niigata.jp/uploaded/image/7446.jpg)
 ```
 
 
