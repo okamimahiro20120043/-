@@ -8,24 +8,11 @@
 
  　　-開志専門職大学情報学部2年
 
--趣味
 
-    -ゲーム 
 
-You can use the [editor on GitHub](https://github.com/okamimahiro20120043/-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 趣味について
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-＃レポート１
-##ヘッダー2
-### Header 3
+-ゲーム
 
 - Bulleted
 - List
