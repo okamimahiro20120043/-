@@ -10,7 +10,7 @@
 
 -趣味
 
-    -読書、ゲーム 
+    -ゲーム 
 
 You can use the [editor on GitHub](https://github.com/okamimahiro20120043/-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
